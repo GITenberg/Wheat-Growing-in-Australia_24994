@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '28327'
     url: http://www.gutenberg.org/2009/agents/28327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24994#Wheat-Growing-in-Australia
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2008-04-05'
 gutenberg_type: Text
